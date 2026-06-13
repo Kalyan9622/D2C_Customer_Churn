@@ -1,0 +1,2 @@
+# D2C_Customer_Churn
+CAPSTONE PROJECT
